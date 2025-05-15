@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Ameen</h1>
-<h3 align="center">Full Stack Developer | .NET | Angular | Azure | AI & ATS</h3>
+<h3 align="center">Full Stack Developer | .NET | Angular | Next.js | Azure | AI Integration | SQL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adamameen5&label=Profile%20views&color=0e75b6&style=flat" alt="adamameen5" />
@@ -10,13 +10,13 @@
 ### 💡 About Me
 
 - 👋 People call me **Aadham** (pronounced as "Aa-dham")
-- 💼 Currently working at **JeffreyAI** as a Software Engineer
-- 🧠 I work with **C# .NET Core**, **Angular**, **Azure**, and **SQL**
+- 💼 Currently working at **JeffreyAI** as a Full Stack Software Engineer
+- 🧠 I work with **C# .NET Core**, **Angular (TypeScript)**, **Next.js**, **Azure**, and **SQL**
 - 🤖 Built an **ATS (Applicant Tracking System)** with **AI for resume screening**
 - 🛠 Developed an **Admin Dashboard** using **Next.js** + .NET to manage customers, logs, and background services
 - 🌐 Integrated job posting from our CRM to **WordPress** job site
 - 🧑‍🤝‍🧑 I lead a small team of junior developers (apprentices) at work
-- 🎨 I like to design with Adobe XD and build WordPress sites during free time
+- 🎨 I like to design with Adobe XD and build WordPress sites during free time and also help small businesses digitalize their process
 
 ---
 
